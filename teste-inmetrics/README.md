@@ -21,3 +21,5 @@ Após a configuraçao acima ser concluída, devemos clicar com o botão direito 
 Selecionar a opção "Cucumber Feature" com o botão direito do mouse, sem seguida selecionar "New Configuration", em seeguida, na opção "Feature Path", inserir o caminho das Features do Cucumber(src\test\java\br\com\inmetrics\teste\features).
 
 Em seguida, clicar em "Run". Logo em seguida os testes devem ser iniciados.
+
+Obs.: O teste # Scenario: Criar um usuário está falhando prospositalmente, para verificar a possibilitade de "falso positivo".
